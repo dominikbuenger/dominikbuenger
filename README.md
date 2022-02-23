@@ -2,6 +2,7 @@ Hi, I'm Dominik Bünger!
 - He / Him
 - Spelling my name as either Bunger or Buenger is fine as well :)
 - My birth name (pre-marriage) was Dominik Alfke
+- I'm originally from Germany, but I currently live in Vancouver, Canada
 
 I'm passionate about lots of things...
 - Efficient Numerical Linear Algebra, particularly eigenvalue computation and its applications
